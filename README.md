@@ -7,4 +7,5 @@
 ## 第二章（词法分析）
 
 gradeMe-1.sh: 评分脚本，来自<git@github.com>:geeeeeeeeek/tiger.git
+refs-1: 参考答案，被用于评分，也来自<git@github.com>:geeeeeeeeek/tiger.git
 我所写的代码在tiger.lex

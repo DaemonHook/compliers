@@ -9,7 +9,6 @@ YYSTYPE yylval;
 int yylex(void); /* prototype for the lexing function */
 
 
-
 string toknames[] = {
 "ID", "STRING", "INT", "COMMA", "COLON", "SEMICOLON", "LPAREN",
 "RPAREN", "LBRACK", "RBRACK", "LBRACE", "RBRACE", "DOT", "PLUS",
